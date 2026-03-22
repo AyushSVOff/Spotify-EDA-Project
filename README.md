@@ -47,8 +47,8 @@ spotify-project/
 
 | Tool | Usage |
 |------|-------|
-| MySQL | Data extraction, cleaning, aggregation queries |
-| Python (pandas, matplotlib) | Exploratory data analysis |
+| MySQL | Data extraction, aggregation queries |
+| Python (pandas, matplotlib) | Cleaning, Exploratory data analysis |
 | Power BI | Interactive dashboard and KPI tracking |
 | Excel | Supplementary data validation |
 
@@ -64,7 +64,7 @@ spotify-project/
 
 ## How to Run
 
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/spotify-eda-analysis`
+1. Clone the repo: `git clone https://github.com/AyushSVOff/spotify-eda-analysis`
 2. Open `/sql/` queries in MySQL Workbench to recreate the cleaned tables
 3. Run `/python/` notebooks in Jupyter (requires `pandas`, `matplotlib`)
 4. Open `/powerbi/spotify_dashboard.pbix` in Power BI Desktop
