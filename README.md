@@ -75,4 +75,4 @@ spotify-project/
 
 **Ayush S Verma**
 B.Tech Chemical Engineering | Delhi Technological University
-[LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ayush-s-verma-860365222/)) • [GitHub](https://github.com/AyushSVOff) • ayushsverma30@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ayush-s-verma-860365222/) • [GitHub](https://github.com/AyushSVOff) • ayushsverma30@gmail.com
